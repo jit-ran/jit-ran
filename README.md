@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jit-ran
-- 👀 I’m interested in compilers, LLVM and MLIR
-- 🌱 I’m code in C++
+- 👀 Interested in compilers, LLVM and MLIR
+- 🌱 I code in C++
 
 <!---
 jit-ran/jit-ran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
